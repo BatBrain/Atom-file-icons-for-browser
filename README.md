@@ -1,5 +1,5 @@
 # Atom-file-icons-for-browser
-Modification of @DanBrooker [file-icons](https://github.com/DanBrooker/file-icons) Atom package to work in browser.
+Modification of [file-icons](https://github.com/DanBrooker/file-icons) Atom package to work in browser.
 
 Includes stylings/icons for .file-text-o and .folder-open for file and folder icons respectively as well as default "?" icon for icons either improperly called or not in file-icons.less.
 
@@ -10,11 +10,11 @@ Also includes alternate font formats for some fonts.
 First steps:
   1. Download or clone this repo
   2. Use [less.js](http://lesscss.org/) either by `npm install -g less` or by including less from their CDN \n
-  ```html
+  ```
   <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.7.1/less.min.js"></script>
   ```
   3. Import file-icons.less in your browser from whichever directory you have configured for serving files like so: \n
-  ```html
+  ```
   <link rel="stylesheet/less" href="/stylesheets/file-icons.less">
   ```
   This should import the other relevant .less files as well as define the font faces available.
