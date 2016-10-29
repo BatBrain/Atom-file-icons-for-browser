@@ -1,5 +1,5 @@
 # Atom-file-icons-for-browser
-Modification of DanBrooker's(@DanBrooker) [file-icons](https://github.com/DanBrooker/file-icons) Atom package to work in browser.
+Modification of @DanBrooker [file-icons](https://github.com/DanBrooker/file-icons) Atom package to work in browser.
 
 Includes stylings/icons for .file-text-o and .folder-open for file and folder icons respectively as well as default "?" icon for icons either improperly called or not in file-icons.less.
 
